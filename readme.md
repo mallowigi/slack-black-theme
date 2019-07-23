@@ -65,6 +65,8 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
 - ??????
 - PROFIT!!!!!!
 
+Use `Help -> Troubleshoot -> Reset Slack` to have the theme fully applied. Since it is a main version change, the `Clear Cache and Restart` option didn't made the magic.
+
 ### For Slack < 4.0
 Find your Slack's application directory.
 
